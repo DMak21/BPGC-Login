@@ -1,5 +1,4 @@
-# BPGC Login
-> The app is currently in the development phase with many more tweaks, UI/Performance Improvements, features yet to be implemented. The app currently supports autologin only for devices with API 20+(Android Lollipop onwards).
+# BPGC Login [Archived]
 
 ## About
 This repository hosts the development of BPGC Login, a simple android app that automatically logs you into BITS Net upon connection to a trusted BPGC Wifi Network or a Hotspot.
